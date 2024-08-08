@@ -6,7 +6,7 @@ This is a hypothetical Remote Employee Monitoring System developed using Python.
 
 ### Step 1: Install External Python Modules
 
-Click the `"module"` file to download and install the required external Python modules.
+Click the `"double click to install all extenal modules.py"` file to download and install the required external Python modules.
 
 ### Step 2: Install the Employee-Side Application
 
