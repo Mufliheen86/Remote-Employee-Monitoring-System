@@ -13,7 +13,7 @@ Click the `"double click to install all extenal modules.py"` file to download an
 - Configure the server (HR PC's IP address) in the emp file by modifying the following line:
     ("self.socket.connect(("192.168.1.101", 9999))    # connect to target server using IP")
 - Open the `"emp"` file on the employee's computer.
-- Place the `"startup"` file in the following directory: `C:\Windows\System32`.
+- Place the `"startup.bat"` file in the following directory: `C:\Windows\System32`.
 - This ensures that the login page automatically pops up when the employee turns on the computer.
 
 ### Step 4: Set Up the HR Dashboard
